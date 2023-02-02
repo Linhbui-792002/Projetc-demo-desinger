@@ -1,0 +1,42 @@
+.content{
+    margin-top: 10px;
+}
+.content__menu{
+    background-color: #ffffff;
+    height: 1000px;
+}
+.content__menu .menu__detail{
+    width:100%;
+    
+}
+
+.content__menu .menu-title{
+    color: #25396f;
+    font-size: 2.0rem;
+    font-weight:5;
+    width: 100%;
+    height: 30px;
+   text-align: center;
+   
+}
+.content__menu .menu-item{
+    width:100%;
+    margin-top: 15px;
+
+}
+
+.content__menu .menu-item .menu-item-btn{
+    width:100%;
+    font-size: 1.6rem;
+}
+.content__menu .menu-item .menu-item-btn:hover{
+    background-color: #f0f1f5;
+}
+.content__menu .menu-item .menu-item-dropdown{
+    width:100%;
+    font-size: 1.5rem;
+}
+.content__detail{
+  background-color: #f2f7ff;
+
+}
